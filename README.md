@@ -55,11 +55,6 @@ Built with **Vite + React**, deployed on **GitHub Pages**.
 
 ## ⚡ Quick Start (Local Setup)  
 
-```bash
-git clone https://github.com/babucarr186-ai/bubacar-portfolio23.git
-cd bubacar-portfolio23
-npm install
-npm run dev
 
 ## 📫 Connect With Me 🤝 
 - YouTube: [@pmoney186](https://youtube.com/@pmoney186)  
