@@ -1,46 +1,39 @@
 
-<!-- TOP / CENTERED HERO -->
-<div align="center">
+# Hi, I'm Bubacar 👋  
 
-# 👋🏾 Hi, I’m **Bubacar**  
-Tech Enthusiast · Digital Marketing · Web Development · Automation
+🌍 **Diaspora | Tech Enthusiast | Builder**  
+💡 Digital Marketing • Web Development • Automation • PLC Programming  
+🚀 Founder of **BN Tech Solutions** & **Gambia Multikulti e.V.**  
 
 [![Profile views](https://komarev.com/ghpvc/?username=babucarr186-ai&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/babucarr186-ai)
 [![Followers](https://img.shields.io/github/followers/babucarr186-ai?style=flat&logo=github)](https://github.com/babucarr186-ai?tab=followers)
 [![Stars](https://img.shields.io/github/stars/babucarr186-ai?affiliations=OWNER&style=flat)](https://github.com/babucarr186-ai?tab=repositories)
 
-</div>
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/babucarr186-ai/bn-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=babucarr186-ai&repo=bn-portfolio&theme=radical" />
-  </a>
-  <a href="https://github.com/babucarr186-ai/babucar_portfolio23">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=babucarr186-ai&repo=babucar_portfolio23&theme=radical" />
-  </a>
+## 🔧 Skills & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/PLC-Ladder%20Logic-orange" />
+  <img src="https://img.shields.io/badge/Tools-Git-black?logo=git" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Hosting-Vercel-black?logo=vercel" />
 </p>
 
 ---
 
-## 📚 Currently Learning
-- PLC programming (Codesys, Siemens, Allen-Bradley)  
-- Industrial automation for development projects in The Gambia
+## 📌 Featured Projects  
+- [🌐 Personal Portfolio](https://your-vercel-link.vercel.app)  
+- [⚡ To-Do Web App](https://your-todo-link.vercel.app)  
+- [🌍 Gambia Multikulti e.V. Website](https://your-gambia-link.vercel.app)  
 
 ---
 
-## 🧰 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visualstudiocode)
+## 🌱 Currently Learning  
+- PLC programming (Codesys, Siemens, Allen-Bradley)  
+- Industrial automation for development projects in The Gambia  
 
 ---
 
@@ -56,7 +49,18 @@ Tech Enthusiast · Digital Marketing · Web Development · Automation
 
 ---
 
-## 🤝 Connect
-- Email: **babucarr186@gmail.com**  
+## 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect With Me 🤝 
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)  
+- YouTube: [@pmoney186](https://youtube.com/@pmoney186)  
+- Email: nget@web.de  
 - Location: Germany
 
+---
+⭐️ *Building bridges between Germany & The Gambia through tech and community*
