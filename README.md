@@ -1,50 +1,33 @@
-# 🌍 Bubacar Nget — Portfolio 23
-
-Welcome to my portfolio project, built with **Vite + React** and deployed on **GitHub Pages**.  
-This project showcases my skills in **web development, automation, and digital marketing**.
-
-🔗 **Live Website:** [Portfolio23](https://babucarr186-ai.github.io/bubacar-portfolio23/)
-
----
-
-## 🛠 Tech Stack
-- ⚛️ React + Vite  
-- 🎨 CSS & modern UI principles  
-- 🚀 Deployment with GitHub Pages  
-- ⚙️ Automation: exploring Codesys, Siemens & Allen-Bradley PLCs  
-
----
-
-## 💡 About Me
-I’m **Bubacar Nget**, a tech enthusiast with strong interest in:
-- **Web Development** (React, Vite, automation-friendly solutions)  
-- **Digital Marketing** (content strategy, social growth, diaspora-focused content)  
-- **Industrial Automation** (PLC programming for Codesys, Siemens, Allen-Bradley)  
-
-I also **built the website for Gambia Multikulti e.V.**, a community association in Germany.  
-📌 Note: I didn’t found the association — I contributed my **web development skills** to build their online presence.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babucarr186-ai&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babucarr186-ai&theme=radical" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babucarr186-ai&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-## 🚀 Run Locally
-Clone the repo and run:
-
-```bash
-git clone https://github.com/babucarr186-ai/bubacar-portfolio23.git
-cd bubacar-portfolio23
-npm install
-npm run dev
+{
+  "name": "portfolio23",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://babucarr186-ai.github.io/bubacar-portfolio23/",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^5.0.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "gh-pages": "^6.3.0",
+    "globals": "^16.3.0",
+    "vite": "^5.4.10"
+  }
+}
 
 
 ## 📫 Connect With Me 🤝 
