@@ -32,11 +32,14 @@
 ---
 
 ## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=bubacarnget&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubacarnget&layout=compact&theme=radical" height="180" />
+![Bubacar's GitHub stats](https://github-readme-stats.vercel.app/api?username=babucarr186-ai&show_icons=true&theme=radical)
 
-<img src="https://streak-stats.demolab.com/?user=bubacarnget&theme=radical" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babucarr186-ai&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babucarr186-ai&layout=compact&theme=radical)
+
 
 
 
