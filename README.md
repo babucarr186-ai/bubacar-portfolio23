@@ -57,7 +57,7 @@
 ---
 
 ## 📫 Connect With Me 🤝 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)  
+- LinkedIn:(https://linkedin.com/in/your-link)  
 - YouTube: [@pmoney186](https://youtube.com/@pmoney186)  
 - Email: nget@web.de  
 - Location: Germany
